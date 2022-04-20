@@ -1,4 +1,4 @@
-# Restaurant Landing Page
+# Restaurant Page
 
 - Used bootstrap tools & own styles.
 - Implemented responsive template.
